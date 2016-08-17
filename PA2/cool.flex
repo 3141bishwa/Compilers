@@ -48,7 +48,7 @@ extern YYSTYPE cool_yylval;
 /*
  * Define names for regular expressions here.
  */
-
+DIGIT		[0-9]
 DARROW          =>
 
 %%
